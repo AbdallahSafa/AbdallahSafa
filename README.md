@@ -3,6 +3,7 @@
 
 
 Hi I'm Abdallah Safa, I am from Brooklyn, NY and am currently a senior @ Vanderbilt University majoring in Computer Science and Applied Math.<br> <br>
++ Check out [My Portfolio](https://abdallahsafa.github.io/my-portfolio/).
 + I’m currently working on [Slime](https://github.com/AbdallahSafa/Slime) a programming language. <br>
 + I am also working on the front end of my poker web application [Pokes](https://github.com/AbdallahSafa/PokerFrontEnd)
 
